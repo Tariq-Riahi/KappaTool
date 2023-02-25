@@ -1,0 +1,108 @@
+year,honor,name,country,birth_year,death_year,title,category,context
+1964,Man of the Year,Lyndon B. Johnson,United States,1908.0,1973.0,President of the United States,Politics,['Presidential Election']
+1991,Man of the Year,Ted Turner,United States,1938.0,,Founder of CNN,Media,
+2011,Person of the Year,The Protester,,,,,Revolution,['Arab Spring']
+1968,Men of the Year,The Apollo 8 Astronauts (William Anders),United States,1933.0,,NASA Astronaut,Space,['Apollo 8']
+1979,Man of the Year,Ayatollah Khomeini,Iran,1902.0,1989.0,Supreme Leader of Iran,Revolution,['Iranian Revolution']
+1988,Planet of the Year,The Endangered Earth,,,,,Environment,
+1989,Man of the Decade,Mikhail Gorbachev,Russia,1931.0,,President of the Soviet Union,Politics,['Democratic Elections']
+1981,Man of the Year,Lech Wałęsa,Poland,1943.0,,Chairperson of Solidarity (Polish Trade Union),Politics,['Gdańsk Agreement']
+1939,Man of the Year,Joseph Stalin,Russia,1878.0,1953.0,General Secretary of the Communist Party of the Soviet Union,War,['World War II']
+1946,Man of the Year,James F. Byrnes,United States,1879.0,1972.0,Secretary of State,Diplomacy,['Iran Crisis']
+1949,Man of the Half-Century,Winston Churchill,United Kingdom,1874.0,1965.0,Prime Minister of the United Kingdom,War,['World War II']
+1966,Man of the Year,The Inheritor,United States,,,,Politics,['Baby Boom Generation']
+1994,Man of the Year,Pope John Paul II,Vatican City,1920.0,2005.0,Pope of the Roman Catholic Church,Religion,
+2002,Persons of the Year,The Whistleblowers (Cynthia Cooper),United States,,,Vice President of Internal Audit at WorldCom,Economics,['Corporate Fraud']
+2012,Person of the Year,Barack Obama,United States,1961.0,,President of the United States,Politics,['Presidential Election']
+1932,Man of the Year,Franklin D. Roosevelt,United States,1882.0,1945.0,President of the United States,Politics,['Presidential Election']
+1942,Man of the Year,Joseph Stalin,Russia,1878.0,1953.0,Premier of the Soviet Union,War,"['Battle of Stalingrad', 'World War II']"
+1954,Man of the Year,John Foster Dulles,United States,1888.0,1959.0,Secretary of State,War,"['Manila Pact', 'Cold War']"
+1956,Man of the Year,The Hungarian Freedom Fighter,Hungary,,,,Revolution,['Hungarian Revolution']
+1993,Men of the Year,The Peacemakers (Yasser Arafat),Palestine,1929.0,2004.0,President of the Palestinian National Authority,Diplomacy,['Oslo Accord']
+2019,Person of the Year,Greta Thunberg,Sweden,2003.0,,,Society,"['Climate change', 'ecology', 'environmental movements']"
+2002,Persons of the Year,The Whistleblowers (Sherron Watkins),United States,1959.0,,Vice President of Corporate Development at Enron,Economics,['Corporate Fraud']
+1927,Man of the Year,Charles Lindbergh,United States,1902.0,1974.0,US Air Mail Pilot,,['First Solo Transatlantic Flight']
+1998,Men of the Year,Bill Clinton,United States,1946.0,,President of the United States,Politics,['Presidential Impeachment']
+2014,Person of the Year,The Ebola Fighters,,,,,Science,['Ebola Epidemic']
+2015,Person of the Year,Angela Merkel,Germany,1954.0,,Chancellor of Germany,Politics,"['Debt Crisis', 'Refugee Crisis', 'Paris Terrorist Attacks']"
+1934,Man of the Year,Franklin D. Roosevelt,United States,1882.0,1945.0,President of the United States,Politics,
+1963,Man of the Year,Martin Luther King Jr.,United States,1929.0,1968.0,President of the Southern Christian Leadership Conference,Politics,['March on Washington']
+1965,Man of the Year,William Westmoreland,United States,1914.0,2005.0,Army General,War,['Vietnam War']
+1929,Man of the Year,Owen D. Young,United States,1874.0,1962.0,Member of the German Reparations International Commission,Diplomacy,['Young Plan']
+1944,Man of the Year,Dwight D. Eisenhower,United States,1890.0,1969.0,Supreme Allied Commander in Europe,War,"['Battle of Normandy', 'World War II']"
+1967,Man of the Year,Lyndon B. Johnson,United States,1908.0,1973.0,President of the United States,Politics,
+1971,Man of the Year,Richard Nixon,United States,1913.0,1994.0,President of the United States,Politics,
+1975,Women of the Year,American Women,United States,,,,Politics,['Feminist Movement']
+1986,Woman of the Year,Corazon Aquino,Philippines,1933.0,2009.0,President of the Philippines,Revolution,['Philippine Revolution']
+2005,Persons of the Year,The Good Samaritans (Bono),Ireland,1960.0,,Lead Singer of U2,Philanthropy,['Charity Concerts']
+1953,Man of the Year,Konrad Adenauer,Germany,1876.0,1967.0,Chancellor of West Germany,Politics,
+1955,Man of the Year,Harlow Curtice,United States,1893.0,1962.0,President of General Motors (GM),Economics,
+1983,Men of the Year,Ronald Reagan,United States,1911.0,2004.0,President of the United States,War,"['Strategic Defense Initiative', 'Cold War']"
+2003,Person of the Year,The American Soldier,United States,,,,War,['Iraq War']
+1931,Man of the Year,Pierre Laval,France,1883.0,1945.0,Prime Minister of France,Politics,
+1977,Man of the Year,Anwar Sadat,Egypt,1918.0,1981.0,President of Egypt,Diplomacy,['Egypt/Israel']
+1945,Man of the Year,Harry S. Truman,United States,1884.0,1972.0,President of the United States,War,"['Bombing of Hiroshima/Nagasaki', 'World War II']"
+1947,Man of the Year,George Marshall,United States,1880.0,1959.0,Secretary of State,Diplomacy,['Marshall Plan']
+1980,Man of the Year,Ronald Reagan,United States,1911.0,2004.0,President of the United States,Politics,['Presidential Election']
+1937,Man and Wife of the Year,Chiang Kai-shek,China,1887.0,1975.0,Premier of the Republic of China,War,['World War II']
+1937,Man and Wife of the Year,Soong Mei-ling,China,1898.0,2003.0,First Lady of the Republic of China,War,['World War II']
+1957,Man of the Year,Nikita Khrushchev,Russia,1894.0,1971.0,General Secretary of the Communist Party of the Soviet Union,Space,['Sputnik 1']
+1968,Men of the Year,The Apollo 8 Astronauts (Frank Borman),United States,1928.0,,NASA Astronaut,Space,['Apollo 8']
+2009,Person of the Year,Ben Bernanke,United States,1953.0,,Chairman of the Federal Reserve,Economics,['Financial Crisis']
+1990,Man of the Year,George H. W. Bush,United States,1924.0,,President of the United States,War,['Gulf War']
+1978,Man of the Year,Deng Xiaoping,China,1904.0,1997.0,Paramount Leader of the People’s Republic of China,Politics,
+1973,Man of the Year,John Sirica,United States,1904.0,1992.0,Chief Judge of the United States District Court (District of Columbia),Politics,['Presidential Impeachment']
+1997,Man of the Year,Andrew Grove,United States,1936.0,2016.0,CEO of Intel,Technology,
+1999,Person of the Year,Jeff Bezos,United States,1964.0,,Founder and CEO of Amazon,Technology,
+1935,Man of the Year,Haile Selassie,Ethiopia,1892.0,1975.0,Emperor of Ethiopia,War,['Colonial War']
+1969,Man and Woman of the Year,The Middle Americans,United States,,,,Politics,
+1976,Man of the Year,Jimmy Carter,United States,1924.0,,President of the United States,Politics,['Presidential Election']
+1999,Person of the Century,Albert Einstein,United States,,,,Science,
+2000,Person of the Year,George W. Bush,United States,1946.0,,President of the United States,Politics,['Presidential Election']
+2006,Person of the Year,You,,,,,Technology,['World Wide Web']
+2017,Persons of the Year,The Silence Breakers,,,,,Society,"['MeToo movement', 'Weinstein Affair']"
+1933,Man of the Year,Hugh S. Johnson,United States,1882.0,1942.0,Director of the National Recovery Administration,Politics,['New Deal']
+1960,Men of the Year,American Scientists,United States,,,,Science,
+2002,Persons of the Year,The Whistleblowers (Coleen Rowley),United States,1954.0,,FBI Special Agent,Politics,['9/11 Terrorist Attacks']
+2005,Persons of the Year,The Good Samaritans (Melinda Gates),United States,1964.0,,Founder of Bill & Melinda Gates Foundation,Philanthropy,
+2013,Person of the Year,Pope Francis,Vatican City,1936.0,,Pope of the Roman Catholic Church,Religion,['Papal Conclave']
+1951,Man of the Year,Mohammad Mossadegh,Iran,1882.0,1967.0,Prime Minister of Iran,Economics,['Abadan Crisis']
+1961,Man of the Year,John F. Kennedy,United States,1917.0,1963.0,President of the United States,Politics,['Presidential Election']
+1962,Man of the Year,Pope John XXIII,Vatican City,1881.0,1963.0,Pope of the Roman Catholic Church,Religion,['Vatican Council']
+2008,Person of the Year,Barack Obama,United States,1961.0,,President of the United States,Politics,['Presidential Election']
+2010,Person of the Year,Mark Zuckerberg,United States,1984.0,,Founder and CEO of Facebook,Technology,
+1940,Man of the Year,Winston Churchill,United Kingdom,1874.0,1965.0,Prime Minister of the United Kingdom,War,"['Battle of Britain', 'World War II']"
+1950,Man of the Year,The American Soldier,United States,,,,War,['Korean War']
+1970,Man of the Year,Willy Brandt,Germany,1913.0,1992.0,Chancellor of West Germany,Politics,
+1984,Man of the Year,Peter Ueberroth,United States,1937.0,,President of the 1984 Summer Olympic Games Organizing Committee,Politics,['Olympic Games']
+1985,Man of the Year,Deng Xiaoping,China,1904.0,1997.0,Paramount Leader of the People’s Republic of China,Politics,['Economic Reforms']
+1987,Man of the Year,Mikhail Gorbachev,Russia,1931.0,,General Secretary of the Communist Party of the Soviet Union,Politics,['Political Reforms']
+1993,Men of the Year,The Peacemakers (F. W. de Klerk),South Africa,1936.0,,State President of South Africa,Politics,['End of Apartheid']
+2005,Persons of the Year,The Good Samaritans (Bill Gates),United States,1955.0,,Founder of Bill & Melinda Gates Foundation,Philanthropy,
+1930,Man of the Year,Mahatma Gandhi,India,1869.0,1948.0,,Revolution,['Salt March']
+1996,Man of the Year,David Ho,United States,1952.0,,Director of AIDS Research Center,Science,['AIDS Research']
+2007,Person of the Year,Vladimir Putin,Russia,1952.0,,President of the Russian Federation,Politics,
+1941,Man of the Year,Franklin D. Roosevelt,United States,1882.0,1945.0,President of the United States,War,"['Pearl Harbor Attack', 'World War II']"
+1958,Man of the Year,Charles de Gaulle,France,1890.0,1970.0,President of France,Politics,['Fifth Republic']
+1972,Men of the Year,Richard Nixon,United States,1913.0,1994.0,President of the United States,Politics,['Presidential Election']
+1974,Man of the Year,King Faisal,Saudi Arabia,1906.0,1975.0,King of Saudi Arabia,Economics,['Oil Crisis']
+1993,Men of the Year,The Peacemakers (Nelson Mandela),South Africa,1918.0,2013.0,President of South Africa,Politics,['End of Apartheid']
+1943,Man of the Year,George Marshall,United States,1880.0,1959.0,Army Chief of Staff,War,['World War II']
+1948,Man of the Year,Harry S. Truman,United States,1884.0,1972.0,President of the United States,Politics,['Presidential Election']
+1972,Men of the Year,Henry Kissinger,United States,,,National Security Advisor,Diplomacy,['United States/China']
+1992,Man of the Year,Bill Clinton,United States,1946.0,,President of the United States,Politics,['Presidential Election']
+1995,Man of the Year,Newt Gingrich,United States,1943.0,,Speaker of the House,Politics,['Congressional Elections']
+1936,Woman of the Year,Wallis Simpson,United States,1896.0,1986.0,Duchess of Windsor,Politics,['Edward VIII Abdication Crisis']
+1952,Woman of the Year,Elizabeth II,United Kingdom,1926.0,,Queen of England,Politics,['Royal Coronation']
+1993,Men of the Year,The Peacemakers (Yitzhak Rabin),Israel,1922.0,1995.0,Prime Minister of Israel,Diplomacy,['Oslo Accord']
+2018,Persons of the Year,The Guardians and the War on Truth,,,,,Society,"['Fake news', 'Murder of Jamal Kashoggi', 'Attacks on news reporter']"
+1938,Man of the Year,Adolf Hitler,Germany,1889.0,1945.0,Chancellor of Germany,War,['World War II']
+1959,Man of the Year,Dwight D. Eisenhower,United States,1890.0,1969.0,President of the United States,Politics,
+1968,Men of the Year,The Apollo 8 Astronauts (Jim Lovell),United States,1928.0,,NASA Astronaut,Space,['Apollo 8']
+1982,Machine of the Year,The Computer,,,,,Technology,
+1998,Men of the Year,Ken Starr,United States,1946.0,,Office of the Independent Counsel,Politics,['Presidential Impeachment']
+2001,Person of the Year,Rudy Giuliani,United States,1944.0,,Mayor of New York City,War,['9/11 Terrorist Attacks']
+2004,Person of the Year,George W. Bush,United States,1946.0,,President of the United States,Politics,['Presidential Election']
+2016,Person of the Year,Donald Trump,United States,1946.0,,President of the United States,Politics,['Presidential Election']
+1928,Man of the Year,Walter Chrysler,United States,1875.0,1940.0,Founder of Chrysler,Economics,['Chrysler/Dodge Merger']
+1983,Men of the Year,Yuri Andropov,Russia,1914.0,1984.0,General Secretary of the Communist Party of the Soviet Union,War,"['Strategic Defense Initiative', 'Cold War']"
